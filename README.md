@@ -8,21 +8,6 @@ Academic research in the field of **Deep Learning**
 ## The Dataset:
 
 This project made use of the CIC-IDS-2017, found here:https://www.unb.ca/cic/datasets/ids-2017.html .
-BENIGN                        2271320
-DoS Hulk                       230124
-PortScan                       158804
-DDoS                           128025
-DoS GoldenEye                   10293
-FTP-Patator                      7935
-SSH-Patator                      5897
-DoS slowloris                    5796
-DoS Slowhttptest                 5499
-Bot                              1956
-Web Attack  Brute Force         1507
-Web Attack  XSS                  652
-Infiltration                       36
-Web Attack  Sql Injection         21
-Heartbleed                         11
 
 <table>
   <tr>
