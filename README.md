@@ -1,4 +1,4 @@
-<img src="assets/Scientists-Have-Discovered-A-Bacteria-Species-Thats-Feeds-Upon-Electricity-12-640x384.jpg" raw="true" alt="For a better Classification of Bacteria Digital Image using Deep Learning"/>
+<img src="assets/firewall.png" raw="true" alt="For a better Classification of Bacteria Digital Image using Deep Learning"/>
 
  
 # Intrusion Detection System (IDS)
