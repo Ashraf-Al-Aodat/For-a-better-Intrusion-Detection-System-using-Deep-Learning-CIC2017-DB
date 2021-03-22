@@ -1,9 +1,9 @@
 <img src="assets/Scientists-Have-Discovered-A-Bacteria-Species-Thats-Feeds-Upon-Electricity-12-640x384.jpg" raw="true" alt="For a better Classification of Bacteria Digital Image using Deep Learning"/>
 
  
-# Bacteria Digital Image Classification
+# Intrusion Detection System (IDS)
 
-Academic research in the field of **Intrusion Detection System using Deep Learning**
+Academic research in the field of **Deep Learning**
 
 ## The Dataset:
 
@@ -220,8 +220,10 @@ This project made use of the CIC-IDS-2017, found here:https://www.unb.ca/cic/dat
   </tr>
 </table>
  
-## The Model (Xception):
-the Xception Architecture has been used to classify the species and genera of bacteria. A Stratified-5-Folds cross validation was used to validate the performance of the model, An average of **99.71%** accuracy has been achieved, competing and even beating published State-of-The-Art models. The Keras library was used with Tensorflow backend.
+## The Model:
+the architecture has been devolop by uasing hyper parameter tuning feature of keras library. A Stratified-5-Folds cross validation was used to validate the performance of the model, An average of **99.87%** accuracy has been achieved, competing and even beating published State-of-The-Art models. The Keras library was used with Tensorflow backend.
+
+<img src="assets/model.png" raw="true" alt="For a better Intrusion Detection System using Deep Learning"/>
 
 The accuracy of the folds..
 |Fold|Validation accuracy (%)|
